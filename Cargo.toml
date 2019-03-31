@@ -10,3 +10,6 @@ jsonwebtoken = "5"
 serde_derive = "1"
 serde = "1"
 toml = "0.4.2"
+
+[dependencies.yaml-rust]
+git = "https://github.com/chyh1990/yaml-rust.git"
